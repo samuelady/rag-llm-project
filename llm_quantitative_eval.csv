@@ -1,0 +1,6 @@
+question_id,question,ground_truth_answer,llm_without_rag_response_len,llm_with_rag_response_len,duration_without_rag_sec,duration_with_rag_sec,em_without_rag,em_with_rag
+0,What is the most effective technique for identifying the behavior of potential polymorphic malware during malware analysis?,N/A,1171,695,6308.265908002853,2922.4746329784393,,
+1,"When conducting a penetration test, what technique would best help avoid detection by network intrusion detection systems?",N/A,1137,173,2948.1354219913483,481.07266092300415,,
+2,"In the context of exploit development, what technique would most likely be used to carry out a privilege escalation attack on a modern Windows operating system?",N/A,643,1101,1556.9490339756012,2690.0919070243835,,
+3,"In the context of developing an exploit for a remote code execution vulnerability discovered in a network service, which technique is most commonly utilized to manipulate memory layouts to facilitate arbitrary code execution?",N/A,903,1109,2074.045614719391,2395.72572183609,,
+4,"In the context of modern exploit development for bypassing ASLR and DEP, which technique is most effective for executing arbitrary code when exploiting a buffer overflow vulnerability?",N/A,1195,627,2658.200824737549,1361.0640769004822,,
